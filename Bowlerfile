@@ -1,0 +1,11 @@
+{
+	"project": {
+		"name": "xilinx-sch2ucf",
+		"description": "converts an eagle schematic to an ucf constraint file",
+		"package": "github.com/faryon93/xilinx-sch2ucf"
+	},
+	"go": {
+		"min-version": "1.4.2"
+	},
+	"assets": []
+}
